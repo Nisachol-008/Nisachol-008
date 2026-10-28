@@ -19,3 +19,19 @@ src="https://img.shields.io/twitter/follow/nisa_20.03?logo=twitter&style=for-the
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Nisachol-008"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nisachol-008&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+# ข้อมูลส่วนตัวสำหรับ CV (Personal Information)
+
+---
+
+## ข้อมูลติดต่อหลัก (Contact Details)
+* **ชื่อ-นามสกุล:** [นางสาว นิศาชล ขาวเหลือง]
+* **ตำแหน่งงานที่สมัคร:** [ชื่อตำแหน่งงาน/สายงาน]
+* **เบอร์โทรศัพท์:** 093-365-1969
+* **อีเมล:** email@example.com
+* **ที่อยู่:** [-/กระบี่น้อย, หมู่12/เมือง, กระบี่]
+* **LinkedIn:-
+* **แฟ้มสะสมผลงาน (Portfolio):-
+
+---
+
